@@ -1,0 +1,19 @@
+,value
+"elasticity, one-day move at index 0.9",0.11598807234672971
+"elasticity, sustained move at index 0.9",0.08627127236776339
+"elasticity, one-day move at index 1.0",0.13107334365583378
+"elasticity, sustained move at index 1.0",0.1266634432482415
+"elasticity, one-day move at index 1.3",0.16863804316963726
+"elasticity, sustained move at index 1.3",0.22724630521636877
+"trend, % per month",0.5834646388646298
+"flatbed premium over dry van, %",7.504105238819679
+"reefer premium over dry van, %",12.493522876019552
+"dry van quarter-end premium 14 days out, %",0.9983376577445376
+"flatbed quarter-end premium 14 days out, %",3.6884582434561377
+"reefer quarter-end premium 14 days out, %",2.2553264296218796
+"dry van quarter-end premium 7 days out, %",1.692045517448655
+"flatbed quarter-end premium 7 days out, %",5.975206398628091
+"reefer quarter-end premium 7 days out, %",3.6261127749428455
+"dry van quarter-end premium 0 days out, %",2.5891366972883927
+"flatbed quarter-end premium 0 days out, %",8.367811177574476
+"reefer quarter-end premium 0 days out, %",5.284247069400375

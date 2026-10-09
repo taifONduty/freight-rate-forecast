@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+models/
+scorer_results/
+report/*.aux
+report/*.log
+report/*.out
